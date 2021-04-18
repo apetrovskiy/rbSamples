@@ -11,6 +11,9 @@ class Calculator
     digits.inject(:+)
   end
 
+  def multiply
+  end
+
   private
 
   def parse_input(str)
