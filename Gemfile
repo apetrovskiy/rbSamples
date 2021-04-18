@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'cucumber', path: '../..'
+gem 'test-unit'
 gem 'rake'
 gem 'rspec'
 group :test do
