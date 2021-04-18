@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'cucumber', path: '../..'
+gem 'cucumber' #, path: '../..'
 gem 'test-unit'
 gem 'rake'
 gem 'rspec'
+
+gem 'minitest'
 
 gem "allure-ruby-commons"
 gem "allure-cucumber"
