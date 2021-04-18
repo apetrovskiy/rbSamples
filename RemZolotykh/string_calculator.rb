@@ -12,6 +12,7 @@ class Calculator
   end
 
   def multiply
+    digits.inject(:*)
   end
 
   private
