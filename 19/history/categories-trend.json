@@ -4,6 +4,11 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 19,
+  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/19/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 18,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/18/",
   "reportName" : "Allure Report with history",
