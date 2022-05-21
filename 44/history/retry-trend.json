@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 44,
+  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/44/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 36,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/36/",
   "reportName" : "Allure Report with history",
