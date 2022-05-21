@@ -11,6 +11,18 @@
     "total" : 0
   }
 }, {
+  "buildOrder" : 49,
+  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/49/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+}, {
   "buildOrder" : 44,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/44/",
   "reportName" : "Allure Report with history",
@@ -205,18 +217,6 @@
 }, {
   "buildOrder" : 17,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/17/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "failed" : 0,
-    "broken" : 0,
-    "skipped" : 0,
-    "passed" : 0,
-    "unknown" : 0,
-    "total" : 0
-  }
-}, {
-  "buildOrder" : 16,
-  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/16/",
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 0,
