@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 61,
+  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/61/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 60,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/60/",
   "reportName" : "Allure Report with history",
@@ -86,11 +91,6 @@
 }, {
   "buildOrder" : 21,
   "reportUrl" : "https://apetrovskiy.github.io/rbSamples/21/",
-  "reportName" : "Allure Report with history",
-  "data" : { }
-}, {
-  "buildOrder" : 20,
-  "reportUrl" : "https://apetrovskiy.github.io/rbSamples/20/",
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
